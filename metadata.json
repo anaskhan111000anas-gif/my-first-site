@@ -1,0 +1,6 @@
+{
+  "name": "Aura Photo Studio",
+  "description": "A premium cinematic photography studio showcase and booking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
